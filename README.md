@@ -8,9 +8,9 @@ To help address the lack of display typefaces for the ADLaM script, invented by 
 ADLaM Codepage (1E900–1E959), MS CP 1252
 
 ## Designers
-Neil Patel 
-Mark Jamra
-Andrew Footit 
+- Neil Patel 
+- Mark Jamra
+- Andrew Footit 
  
 ## Contributing
 
