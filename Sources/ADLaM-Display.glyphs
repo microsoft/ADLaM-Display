@@ -38983,7 +38983,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2023 The ADLaM Display Project Authors (https://github.com/microsoft/ADLaM-Display)";
+value = "Copyright (c) 2022 by Microsoft. All rights reserved.";
 }
 );
 },
